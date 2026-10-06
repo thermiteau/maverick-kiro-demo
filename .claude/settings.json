@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "deny": [
+      "Bash(git push --force*)",
+      "Bash(git push -f*)",
+      "Edit(.github/workflows/**)",
+      "Write(.github/workflows/**)"
+    ]
+  }
+}
